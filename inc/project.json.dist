@@ -1,0 +1,16 @@
+{
+	"project": {
+		"name":null
+	},
+    "properties": {
+		"project": {
+	        "name": {
+	            "label": "Project Name",
+	            "type": "string",
+	            "description": "Name of your project",
+	            "placeholder": "My Project",
+	            "required": true
+	        }
+		}
+    }
+}
